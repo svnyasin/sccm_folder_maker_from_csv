@@ -2,7 +2,7 @@
 
 This small script can read csv files and create folder scheme for collection, application or package automaticly.
 
-Note: Use csv delimiter ",".
+Note: Use "," as csv delimiter.
 
 Note: Max 2 subfolder supporting right now.
 
